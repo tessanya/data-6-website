@@ -24,8 +24,8 @@ Syntax highlighted code block
 
 
 # Pictures That Describe My Summer!
-<img src="./IMAGE_2925.HEIC" style="width:50%; margin:auto; display:block">
-<img src="./IMAGE_2659.heic" style="width:50%; margin:auto; display:block">
+<img src="./IMG_2925.HEIC" style="width:50%; margin:auto; display:block">
+<img src="./IMG_2659.heic" style="width:50%; margin:auto; display:block">
 
 
 **Bold** and _Italic_ and `Code` text
