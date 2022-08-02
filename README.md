@@ -24,8 +24,7 @@ Syntax highlighted code block
 
 
 # Pictures That Describe My Summer!
-<img width="653" alt="Screen Shot 2022-08-02 at 10 58 35 AM" src="https://user-images.githubusercontent.com/110420938/182442396-63538267-7aa9-4d02-ab84-0f930319c6ea.png">
-<img width="686" alt="Screen Shot 2022-08-02 at 10 59 07 AM" src="https://user-images.githubusercontent.com/110420938/182442511-9b102149-87d9-4295-88b3-f1f89337ba4d.png">
+
 
 
 
