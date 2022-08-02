@@ -24,11 +24,9 @@ Syntax highlighted code block
 
 
 # Pictures That Describe My Summer!
-[Uploading Screen Shot 2022-08-02 at 10.49.36 AM.png…]()
+<img width="653" alt="Screen Shot 2022-08-02 at 10 58 35 AM" src="https://user-images.githubusercontent.com/110420938/182442396-63538267-7aa9-4d02-ab84-0f930319c6ea.png">
+<img width="686" alt="Screen Shot 2022-08-02 at 10 59 07 AM" src="https://user-images.githubusercontent.com/110420938/182442511-9b102149-87d9-4295-88b3-f1f89337ba4d.png">
 
-![Uploading Screen Shot 2022-08-02 at 10.49.57 AM.png…]()
-<img width="673" alt="Screen Shot 2022-08-02 at 10 50 10 AM" src="https://user-images.githubusercontent.com/110420938/182440894-82a7339b-2b92-437f-8848-d43044d54147.png">
-![Uploading Screen Shot 2022-08-02 at 10.50.20 AM.png…]()
 
 
 **Bold** and _Italic_ and `Code` text
