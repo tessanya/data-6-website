@@ -11,12 +11,17 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Hi! My name is Tess and I am a freshman at UC Berkeley studying Molecular and Cell Biology
+## My Favorite Food
+1. Plantain chips
+2. Lattes and Matcha
+3. Ice Cream
 
-- Bulleted
-- List
+### My favorite songs
+1. Out of Time by the Weeknd
+2. Pluto Projector by Rex Orange County
+3. White Ferrari by Frank Ocean
+
 
 1. Numbered
 2. List
